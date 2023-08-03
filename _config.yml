@@ -21,7 +21,7 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Blog: "Blog"
+  Blog: "/blog/index.html"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
