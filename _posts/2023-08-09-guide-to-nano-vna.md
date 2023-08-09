@@ -65,9 +65,7 @@ Many RF devices behave similar to the lens, in that some of the incident RF sign
 
 A vector network analyzer is similar to the scalar vector analyser, but the VNA has one major difference - it can detect both the magnitude, and the phase of the signals.
 
-![lightwave-analogy-of-VNA{caption=“Dude, Some moron built a wall inside this tunnel!!”; “Yeah, I think the author was trying to illustrate a point about reflections”; “Lovely brickwork on those entrances though”}](/confused.me/assets/img/tunnel.png)
-
 <figure>
-  <img src="/confused.me/assets/img/tunnel.png" alt="my alt text"/>
+  <img src="/confused.me/assets/img/tunnel.png" alt="Dude, Some moron built a wall inside this tunnel!!”; “Yeah, I think the author was trying to illustrate a point about reflections”; “Lovely brickwork on those entrances though"/>
   <figcaption>This is my caption text.</figcaption>
 </figure>
