@@ -4,7 +4,7 @@ title: Set up conda environment
 subtitle: There's lots to learn!
 gh-repo: BhargavRajGuru/confused.me
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [conda]
 comments: true
 ---
 
