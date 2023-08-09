@@ -22,7 +22,8 @@ author: Bhargav Rajyaguru
 navbar-links:
   About Me: "aboutme"
   Blog: "/blog/index.html"
-  Notes: "/notes/vna.md"
+  Notes:
+    - Guide to nano VNA: "/notes/vna.md"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
