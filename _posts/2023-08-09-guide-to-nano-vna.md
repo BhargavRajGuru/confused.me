@@ -47,7 +47,7 @@ That sounds pretty complex, but it's really not. An analogy may help.
 
 ### A lightwave analogy of a device that would be measrued with a VNA
 
-![lightwave-analogy-of-VNA](/confused.me/assets/img/lightwave-analogy-of-VNA.png)
+![lightwave-analogy-of-VNA](/assets/img/lightwave-analogy-of-VNA.png)
 
 In the above diagram, light is seen to be incident on a lens. Some light is transmitted through the lens, and some is reflected from the lens. If you wanted to make a simple very instrument to characterise the lens you could have it consisting of just three parts.
 
@@ -64,3 +64,5 @@ Many RF devices behave similar to the lens, in that some of the incident RF sign
 - A power meter, able to measure the intensity of the reflected signal.
 
 A vector network analyzer is similar to the scalar vector analyser, but the VNA has one major difference - it can detect both the magnitude, and the phase of the signals.
+
+![lightwave-analogy-of-VNA](/assets/img/tunnel.png)
