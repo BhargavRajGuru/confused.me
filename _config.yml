@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Blog: "/blog/index.html"
   Notes:
-    - Guide to nano VNA: "/notes/index.html"
+    - Guide to nano VNA: "/notes/index.md"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
