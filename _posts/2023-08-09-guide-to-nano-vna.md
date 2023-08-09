@@ -67,5 +67,5 @@ A vector network analyzer is similar to the scalar vector analyser, but the VNA 
 
 <figure>
   <img src="/confused.me/assets/img/tunnel.png" alt="tunnel"/>
-  <figcaption>“Dude, Some moron built a wall inside this tunnel!!”; “Yeah, I think the author was trying to illustrate a point about reflections”; “Lovely brickwork on those entrances though”</figcaption>
+  <figcaption>“Dude, Some moron built a wall inside this tunnel!!”; “Yeah, I think the author was trying to illustrate a point about reflections”; “Lovely brickwork on those entrances though”.</figcaption>
 </figure>
