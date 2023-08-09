@@ -49,4 +49,4 @@ That sounds pretty complex, but it's really not. An analogy may help.
 
 ![lightwave-analogy-of-VNA]({{ 'assets/img/lightwave-analogy-of-VNA.png' | relative_url }})
 
-![Crepe](/assets/img/crepe.jpg)
+![Crepe](BhargavRajGuru/confused.me/_posts/2023-08-09-guide-to-nano-vna.md)
