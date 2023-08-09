@@ -49,3 +49,18 @@ That sounds pretty complex, but it's really not. An analogy may help.
 
 ![lightwave-analogy-of-VNA](/confused.me/assets/img/lightwave-analogy-of-VNA.png)
 
+In the above diagram, light is seen to be incident on a lens. Some light is transmitted through the lens, and some is reflected from the lens. If you wanted to make a simple very instrument to characterise the lens you could have it consisting of just three parts.
+
+1. A source of light - e.g. an LED.
+2. A detector of light to detect the transmitted light - e.g. a photodiode.
+3. A detector of light to detect the reflected light - e.g. a photodiode.
+
+The above is a scalar instrument - it detects the magnitude of the light, but not its phase.
+
+Many RF devices behave similar to the lens, in that some of the incident RF signal is reflected, and some is transmitted. A simple scalar network analyzer would need to consist of
+
+- A source of RF energy.
+- A power meter, able to measure the intensity of the transmitted signal.
+- A power meter, able to measure the intensity of the reflected signal.
+
+A vector network analyzer is similar to the scalar vector analyser, but the VNA has one major difference - it can detect both the magnitude, and the phase of the signals.
