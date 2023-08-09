@@ -48,3 +48,5 @@ That sounds pretty complex, but it's really not. An analogy may help.
 ### A lightwave analogy of a device that would be measrued with a VNA
 
 ![lightwave-analogy-of-VNA]({{ 'assets/img/lightwave-analogy-of-VNA.png' | relative_url }})
+
+![Crepe](/assets/img/crepe.jpg)
