@@ -10,3 +10,5 @@ comments: true
 
 {: .box-note}
 **Note:** This is a notification box.
+
+![lightwave-analogy-of-VNA{caption=“Dude, Some moron built a wall inside this tunnel!!”; “Yeah, I think the author was trying to illustrate a point about reflections”; “Lovely brickwork on those entrances though”}](/assets/img/tunnel.png)
