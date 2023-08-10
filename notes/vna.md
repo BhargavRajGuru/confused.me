@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: page
 title: Guide to nano VNA
 subtitle: There's lots to learn!
 #gh-repo: BhargavRajGuru/confused.me
