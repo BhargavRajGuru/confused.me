@@ -2,8 +2,8 @@
 layout: post
 title: Guide to nano VNA
 subtitle: There's lots to learn!
-gh-repo: BhargavRajGuru/confused.me
-gh-badge: [star, fork, follow]
+#gh-repo: BhargavRajGuru/confused.me
+#gh-badge: [star, fork, follow]
 tags: [vna]
 comments: true
 date: 2023-08-09
