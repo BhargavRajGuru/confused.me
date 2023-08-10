@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: minimal
 title: Guide to nano VNA
 subtitle: There's lots to learn!
 #gh-repo: BhargavRajGuru/confused.me
