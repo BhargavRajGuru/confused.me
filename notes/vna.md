@@ -6,7 +6,6 @@ subtitle: There's lots to learn!
 #gh-badge: [star, fork, follow]
 tags: [vna]
 comments: true
-date: 2023-08-09
 ---
 
 This repository aims to give the reader a brief introduction to vector network analyzers, for someone who has never come across one before, or someone who is tasked with using a vector network analyzer, but knows nothing about them.
