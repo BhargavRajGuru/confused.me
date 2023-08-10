@@ -1,7 +1,11 @@
 ---
-layout: page
+layout: post
 title: Guide to nano VNA
 subtitle: There's lots to learn!
+gh-repo: BhargavRajGuru/confused.me
+gh-badge: [star, fork, follow]
+tags: [vna]
+comments: true
 ---
 
 This repository aims to give the reader a brief introduction to vector network analyzers, for someone who has never come across one before, or someone who is tasked with using a vector network analyzer, but knows nothing about them.
