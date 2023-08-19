@@ -69,3 +69,20 @@ A vector network analyzer is similar to the scalar vector analyser, but the VNA 
   <img src="/confused.me/assets/img/tunnel.png" alt="tunnel"/>
   <figcaption>“Dude, Some moron built a wall inside this tunnel!!”; “Yeah, I think the author was trying to illustrate a point about reflections”; “Lovely brickwork on those entrances though”.</figcaption>
 </figure>
+
+What happens if I shout into the tunnel and have a friend listen at the other end. We might be able to work out the length from the volume and delay (you were careful to synchronise watches) of the received sound. Perhaps, we can detect a difference between the high and low pitch sounds. Maybe there is some material in there that is absorbing the high pitch noises, or closed service tunnel that has created a resonance. You have just measured the ‘thru’ characteristics of this tunnel. In VNA parlance, we will call this a **S21** measurement, meaning we have made *a measurement of a signal at port 2(your friend) of a signal injected at port 1*(your beautiful voice).
+
+Now, you do the same, but this time listen to the echo of your shout reflect back to you. Perhaps there is a blockage, somewhere in the tunnel that is reflecting your voice. If hear the echo, back at the same volume, you might reasonably that none of the sound could have reached the other end. Congratulations, you have just measured the reflection of the tunnel. Using the same nomenclature as before, we can call this **S11**. i.e *a measurement of what you heard at port 1, when you shouted into port 1*.
+
+We can now start to make this as complex as we wish. Imagine a tunnel network with many entrances. We can get a group of friends to stand at each entrance and take it in turns to shout and listen. We will number each entrance from 1 to n and record details of what was heard at each entrance, again using the nomenclature we used before. So, for example, we may have measurement of **S32** to indicate that this is *a measurement of what we heard at entrance 3 while someone yelled into entrance 2*.
+
+The whole set of all possible combinations of shouting and listening at each entrance is what we call the **S-Parameters** of the tunnel.
+
+Now, the astute, might have noticed that I casually dropped in the word relative before. This is important, to accurately map our tunnels, we need to know the exact details of what we yelled into the the entrances. When we do this with our VNA, instead of randomly bellowing into the tunnel, lets just sing a single note and compare the amplitude and time of the received signal. With just a single tone, we can’t accurately measure the time(with only a single frequency measurement), but we can record the phase difference. We can now repeat this for every frequency we are interested in.
+
+There are a number of ways to plot this data. The most basic being just a rectangular plot of frequency on the X axis and Amplitude on the Y. Commonly we will scale the Y axis to be a logarithmic(normally dB) scale.
+
+<figure>
+  <img src="/confused.me/assets/img/return_loss.webp" alt="tunnel"/>
+  <figcaption>An S11 measurement of an plotted as a rectangular dB scale. <i>Errata - This is actually the magnitude of the reflection coefficient.</i></figcaption>
+</figure>
