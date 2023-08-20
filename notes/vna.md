@@ -86,3 +86,14 @@ There are a number of ways to plot this data. The most basic being just a rectan
   <img src="/confused.me/assets/img/return_loss.webp" alt="tunnel"/>
   <figcaption>An S11 measurement of an plotted as a rectangular dB scale. <i>Errata - This is actually the magnitude of the reflection coefficient.</i></figcaption>
 </figure>
+
+The next most common is the Smith Chart.
+
+<figure>
+  <img src="/confused.me/assets/img/smith_chart.webp" alt="tunnel"/>
+  <figcaption>Smith chart is just a vector of the normalised amplitude and phase.</figcaption>
+</figure>
+
+This looks complex, but ignore the funny lines for now. This is just a polar plot with our received signal plotted as an amplitude and phase. The outside circle represents a situation where we have received a signal of equal amplitude to the transmitted signal. The centre of the plot shows where the received signal is near zero.
+
+Both plots shown are useful. The rectangular plot is makes it very easy to see how a network performs at different frequencies. The smith chart is very useful for impedance matching, but is not needed for many simpler use cases.
