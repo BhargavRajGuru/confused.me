@@ -35,10 +35,11 @@ Run Jupyter notebook.
 ```bash
 (D:\pythoncode\new-env)$ jupyter notebook
 ```
-
-<!-- {:start="2"} -->
+<p>
+{:start="2"}
 
 2. Run the following code in your notebook to confirm that you are using the correct kernel.
+</p>
 
 ```python
 import os
