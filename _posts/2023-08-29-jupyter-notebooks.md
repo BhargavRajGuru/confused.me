@@ -12,19 +12,25 @@ This method doesn't actually get your environment to show in Jupyter Notebooks, 
 
 1. Activate your environment, install jupyter, and run jupyter notebook.
 
-<!-- Ignore this step if you have already created a conda environment. -->
+Ignore this step if you have already created a conda environment.
 
 ```bash
 (base)$ create -p ./new-env
 ```
 
+Activate environment.
+
 ```bash
 (base)$ conda activate D:\pythoncode\new-env
 ```
 
+Install Jupyter.
+
 ```bash
 (D:\pythoncode\new-env)$ conda install jupyter
 ```
+
+Run Jupyter notebook.
 
 ```bash
 (D:\pythoncode\new-env)$ jupyter notebook
