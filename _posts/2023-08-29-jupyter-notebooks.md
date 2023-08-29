@@ -14,26 +14,26 @@ This method doesn't actually get your environment to show in Jupyter Notebooks, 
 
 Ignore this step if you have already created a conda environment.
 
-'''bash
+```bash
 (base)$ create -p ./new-env
-'''
+```
 
-'''bash
+```bash
 (base)$ conda activate D:\pythoncode\new-env
-'''
+```
 
-'''bash
+```bash
 (D:\pythoncode\new-env)$ conda install jupyter
-'''
+```
 
-'''bash
+```bash
 (D:\pythoncode\new-env)$ jupyter notebook
-'''
+```
 
 2. Run the following code in your notebook to confirm that you are using the correct kernel
 
-'''python
+```python
 import os
 print (os.environ['CONDA_DEFAULT_ENV'])
-'''
+```
 
