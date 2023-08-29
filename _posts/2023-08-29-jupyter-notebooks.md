@@ -36,29 +36,10 @@ Run Jupyter notebook.
 (D:\pythoncode\new-env)$ jupyter notebook
 ```
 
-<!-- {:start="2"} -->
+{:start="2"}
 2. Run the following code in your notebook to confirm that you are using the correct kernel.
 
 ```python
-import os
-print (os.environ['CONDA_DEFAULT_ENV'])
-```
-
-**Method 3: “The Quick and Dirty Method”**
-
-This method doesn’t actually get your environment to show in Jupyter Notebooks, but it is worth noting. If you install jupyter in any environment and run jupyter notebook from that environment the notebook will use the kernel from the active environment. The kernel will show with the default name Python 3 but we can verify this works by doing the following.
-
-1. Activate your environment, install jupyter, and run jupyer notebook.
-
-```
-(base)$ conda activate new-env
-(new_env)$ conda install jupyter
-(new_env)$ jupyter notebook
-```
-
-2. Run the following code in your notebook to confirm that you are using the correct kernel
-
-```
 import os
 print (os.environ['CONDA_DEFAULT_ENV'])
 ```
