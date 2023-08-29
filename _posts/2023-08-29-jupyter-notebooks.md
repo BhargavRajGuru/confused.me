@@ -36,8 +36,7 @@ Run Jupyter notebook.
 (D:\pythoncode\new-env)$ jupyter notebook
 ```
 <p>
-{:start="2"}
-
+<!-- {:start="2"} -->
 2. Run the following code in your notebook to confirm that you are using the correct kernel.
 </p>
 
