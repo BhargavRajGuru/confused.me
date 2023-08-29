@@ -32,7 +32,7 @@ Ignore this step if you have already created a conda environment.
 
 {:start="2"}
 
-2. Run the following code in your notebook to confirm that you are using the correct kernel.v c
+2. Run the following code in your notebook to confirm that you are using the correct kernel.
 
 ```python
 import os
