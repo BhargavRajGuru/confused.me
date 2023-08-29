@@ -18,19 +18,13 @@ Ignore this step if you have already created a conda environment.
 (base)$ create -p ./new-env
 ```
 
-Activate environment.
-
 ```bash
 (base)$ conda activate D:\pythoncode\new-env
 ```
 
-Install Jupyter.
-
 ```bash
 (D:\pythoncode\new-env)$ conda install jupyter
 ```
-
-Run Jupyter notebook.
 
 ```bash
 (D:\pythoncode\new-env)$ jupyter notebook
