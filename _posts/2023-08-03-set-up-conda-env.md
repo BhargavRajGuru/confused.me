@@ -92,6 +92,6 @@ conda remove --name env --all
 
 To remove the conda environment at different path
 
-```bash
+```dos
 conda env remove -p D:\pythoncode\envqiskit-metal
 ```
