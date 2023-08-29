@@ -95,3 +95,15 @@ To remove the conda environment at different path
 ```bash
 conda env remove -p D:\pythoncode\envqiskit-metal
 ```
+
+Creating an environment from an environment.yml file
+
+```bash
+conda env create -f environmet.yml
+```
+
+Export your active environment to a new file
+
+```bash
+conda env export > environment.yml
+```
