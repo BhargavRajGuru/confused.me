@@ -14,23 +14,23 @@ This method doesn't actually get your environment to show in Jupyter Notebooks, 
 
 Ignore this step if you have already created a conda environment.
 
-    ```bash
-    (base)$ create -p ./new-env
-    ```
+```bash
+(base)$ create -p ./new-env
+```
 
-    ```bash
-    (base)$ conda activate D:\pythoncode\new-env
-    ```
+```bash
+(base)$ conda activate D:\pythoncode\new-env
+```
 
-    ```bash
-    (D:\pythoncode\new-env)$ conda install jupyter
-    ```
+```bash
+(D:\pythoncode\new-env)$ conda install jupyter
+```
 
-    ```bash
-    (D:\pythoncode\new-env)$ jupyter notebook
-    ```
+```bash
+(D:\pythoncode\new-env)$ jupyter notebook
+```
 
-<!-- {:start="2"} -->
+{:start="2"}
 
 2. Run the following code in your notebook to confirm that you are using the correct kernel.
 
