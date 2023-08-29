@@ -12,7 +12,7 @@ This method doesn't actually get your environment to show in Jupyter Notebooks, 
 
 1. Activate your environment, install jupyter, and run jupyter notebook.
 
-Ignore this step if you have already created a conda environment.
+<!-- Ignore this step if you have already created a conda environment. -->
 
 ```bash
 (base)$ create -p ./new-env
@@ -30,7 +30,7 @@ Ignore this step if you have already created a conda environment.
 (D:\pythoncode\new-env)$ jupyter notebook
 ```
 
-{:start="2"}
+<!-- {:start="2"} -->
 
 2. Run the following code in your notebook to confirm that you are using the correct kernel.
 
