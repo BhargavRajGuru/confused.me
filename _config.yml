@@ -24,6 +24,7 @@ navbar-links:
   Blog: "/blog/index.html"
   Notes: 
     - VNA: "/notes/vna"
+    - CURVE FIT: "/notes/fitting"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
