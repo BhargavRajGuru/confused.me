@@ -10,5 +10,5 @@ comments: true
 
 1. Go to [Set up conda environment](https://bhargavrajguru.github.io/confused.me/2023-08-03-set-up-conda-env/) to know how to create conda environment in detail.
 
-2. Go to [Jupyter Notebook inside your Conda environment](https://bhargavrajguru.github.io/confused.me/2023-08-29-jupyter-notebooks/) to know how to set-up Jupyter notebook in your particular conda environment.
+2. Go to [Jupyter Notebook inside your Conda environment](https://bhargavrajguru.github.io/confused.me/2023-08-29-jupyter-notebook/) to know how to set-up Jupyter notebook in your particular conda environment.
 
