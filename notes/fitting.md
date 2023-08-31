@@ -8,3 +8,4 @@ tags: [vna]
 comments: true
 ---
 
+Go to [Set up conda environment](https://bhargavrajguru.github.io/confused.me/2023-08-03-set-up-conda-env/) to know how to create conda environment in detail.
