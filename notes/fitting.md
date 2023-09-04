@@ -28,3 +28,5 @@ Create start_jupyter.bat file and put above code inside it. First path is where 
 
 {:start="6"}
 6. Run start_jupyter.bat file and it will open up the Jupyter notebook.
+
+7. Create new Jupyter notebook.
