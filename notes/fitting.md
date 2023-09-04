@@ -12,3 +12,16 @@ comments: true
 
 2. Go to [Jupyter Notebook inside your Conda environment](https://bhargavrajguru.github.io/confused.me/2023-08-29-jupyter-notebook/) to know how to set-up Jupyter notebook in your particular conda environment.
 
+3. Create folder for your project. e.g. curvefit.
+
+4. Go to [Set up Git and GitHub](https://bhargavrajguru.github.io/confused.me/2023-09-04-git-github/) to know how to set-up Git and GitHub.
+
+5. Creata a .bat file to quickly start jupyter notebook inside your preferred conda environment.
+
+```bat
+call "...\anaconda3\Scripts\activate.bat" "...\dacurvefit"
+call jupyter notebook
+pause
+```
+
+Create .bat file and put above code inside it. First path is where the anaconda activate.bat file lays in your system, and the second is where the conda environment lays.
