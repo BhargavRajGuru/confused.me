@@ -24,4 +24,7 @@ call jupyter notebook
 pause
 ```
 
-Create .bat file and put above code inside it. First path is where the anaconda activate.bat file lays in your system, and the second is where the conda environment lays.
+Create start_jupyter.bat file and put above code inside it. First path is where the anaconda activate.bat file is located in your system, and the second is where the conda environment is located.
+
+{:start="6"}
+6. Run start_jupyter.bat file and it will open up the Jupyter notebook.
