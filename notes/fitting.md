@@ -14,7 +14,7 @@ comments: true
 
 3. Create folder for your project. e.g. curvefit.
 
-4. Go to [Set up Git and GitHub](https://bhargavrajguru.github.io/confused.me/2023-09-04-git-github/) to know how to set-up Git and GitHub.
+4. Go to [Set-up Git and GitHub](https://bhargavrajguru.github.io/confused.me/2023-09-04-git-github/) to know how to set-up Git and GitHub.
 
 5. Creata a .bat file to quickly start jupyter notebook inside your preferred conda environment.
 
