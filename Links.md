@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Links
 subtitle: Useful URLs for experimentalists
 ---
 
