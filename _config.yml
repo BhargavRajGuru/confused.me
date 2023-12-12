@@ -263,6 +263,8 @@ permalink: /:year-:month-:day-:title/
 paginate_path: "/blog/page:num/"
 paginate: 5
 
+full-width: true
+
 kramdown:
   input: GFM
 
