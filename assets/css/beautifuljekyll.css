@@ -18,8 +18,8 @@ body {
   background-color: {{ site.page-col | default: "#FFFFFF" }};
   /* added by Bhargav */
   /* max-width: 102rem; */
-  margin-left: 9%;
-  margin-right: 9%;
+  /* margin-left: 9%; */
+  /* margin-right: 9%; */
   /* upto here added by Bhargav */
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
