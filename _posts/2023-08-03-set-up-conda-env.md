@@ -8,7 +8,7 @@ tags: [conda]
 comments: true
 ---
 
-# Anaconda cheat sheet
+## Anaconda cheat sheet
 
 This is a simple cheat sheet to set up and start using conda environment
 
